@@ -7,6 +7,8 @@ public class holamundo {
 
 		System.out.println("RAMADAN");
 		
+		System.out.println("Ramadan");
+		
 	}
 
 }
